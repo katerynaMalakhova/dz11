@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="511ea605-4030-46a9-9f02-066de5a653a1" name="Changes" comment="" />
+    <list default="true" id="511ea605-4030-46a9-9f02-066de5a653a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/people/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/people/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/people/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rd/people/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ManTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/WomanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/smoke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +42,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/katerynamalakhova/Documents/dz11"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/katerynamalakhova/Documents/dz11/src/test/resources/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="dz-11" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/katerynamalakhova/Documents/dz11/src/test/resources/regression.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
