@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="unit tests">
+
+    <test name="regression test">
+        <packages>
+            <package name="org.example"/>
+        </packages>
+    </test>
+
+</suite>
